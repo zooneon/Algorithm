@@ -8,4 +8,5 @@
 👉 [신규 아이디 추천](https://programmers.co.kr/learn/courses/30/lessons/72410)<br/>
 👉 [키패드 누르기](https://programmers.co.kr/learn/courses/30/lessons/67256)<br/>
 👉 [체육복](https://programmers.co.kr/learn/courses/30/lessons/42862)<br/>
+👉 [실패율](https://programmers.co.kr/learn/courses/30/lessons/42889)<br/>
 

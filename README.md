@@ -10,3 +10,6 @@
 👉 [체육복](https://programmers.co.kr/learn/courses/30/lessons/42862)<br/>
 👉 [실패율](https://programmers.co.kr/learn/courses/30/lessons/42889)<br/>
 
+### Level 2
+👉 [124 나라의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12899)<br/>
+
